@@ -2,3 +2,4 @@
 ---
 1.修复聚搜闪退
 2.第二次按集数全屏播放
+3.若在线更新/安装失败，请点击<a href="https://www.lanzoub.com/i6ncd0be08nc">https://www.lanzoub.com/i6ncd0be08nc</a>手动更新
