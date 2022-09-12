@@ -1,5 +1,6 @@
-1.0.7.4
+1.0.7.5
 ---
-1.解决软件启动闪屏问题
-2.其它细节以及小问题优化
-3.若在线更新/安装失败，请手动更新:https://www.lanzoub.com/iQStL0bgwufa
+1.修复首页推荐为站点推荐时长按闪退问题
+2.直播界面优化，支持epg （By taka）
+3.修复XWalkView下载失败的问题
+4.若在线更新/安装失败，请手动更新:https://www.lanzoub.com/iqrmD0bjf0of
