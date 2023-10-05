@@ -1,7 +1,8 @@
-1.1.1
+1.2.0
 ---
-1.修复搜索联想
-2.更换内置源地址
+1.支持荐片、磁力播放
+2.聚搜默认关闭，支持dryp等规则
+3.支持加密接口、图床接口
 在线更新无法下载的话，请点击以下链接手动下载更新
 
-https://www.lanzoub.com/iDSw20qn9u5e
+https://www.lanzoub.com/idmmF1atul8f
